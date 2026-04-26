@@ -8,7 +8,7 @@ Este projeto consiste no desenvolvimento de um pipeline de dados completo, desde
 # Stack Tecnológica
 - Engine de Dados: PostgreSQL (Ingestão e Tratamento)
 - Modelagem: Star Schema (Dimensões e Fato)
-
+![modelagem](dashboard/squema.png)
 
 
 
