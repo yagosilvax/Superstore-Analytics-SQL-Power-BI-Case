@@ -1,25 +1,23 @@
 # Superstore Analytics
 Este projeto consiste no desenvolvimento de um pipeline de dados completo, desde a ingestão e tratamento em um banco de dados relacional até a criação de um dashboard estratégico focado em logística e performance de produtos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![vendas geral](dashboard/vendas.png)
+![produtos](dashboard/produtos.png)
+![logistica](dashboard/logistica.png)
 
 # Stack Tecnológica
 - Engine de Dados: PostgreSQL (Ingestão e Tratamento)
 - Modelagem: Star Schema (Dimensões e Fato)
+
+
+
+
+
+
+
+
+
+
 - Visualização: Power BI
 - Linguagem: SQL (CTEs, Window Functions, DDL/DML) e DAX(SUM, COUNT, AVERAGE, DIVIDE,CALENDARIO, DISTINCTCOUNT).
 
